@@ -2,6 +2,7 @@
 
 ## Source
 All source code was copied from https://github.com/AdmiralCurtiss/HyoutaTools and modified to remove anything unrelated to Tales of Destiny DC.
+HyoutaTools is originally a collection of functions to pack and unpack video game archives, as well as to extract data from them for GraceNote.
 As well, icon was added to make the executable look cool.
 
 ## Compile Instructions
