@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HyoutaTools.Tales.DestinyRemake.TblBin
+namespace HyoutaTools.unpack
 {
 	class Execute
 	{
@@ -11,7 +11,8 @@ namespace HyoutaTools.Tales.DestinyRemake.TblBin
 		{
 			if (args.Count != 2)
 			{
-				Console.WriteLine("Usage: DAT.TBL DAT.BIN");
+				Console.WriteLine("Unpack DAT: DAT.TBL DAT.BIN");
+				Console.WriteLine("Unpack MOV: MOV.TBL MOV.BIN");
 				return -1;
 			}
 

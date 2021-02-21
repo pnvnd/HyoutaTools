@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using HyoutaUtils;
 
-namespace HyoutaTools.Tales.DestinyRemake.TblBin
+namespace HyoutaTools.unpack
 {
 	class TblBinFileReference
 	{

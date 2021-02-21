@@ -19,8 +19,8 @@ namespace HyoutaTools
 		public delegate int ExecuteProgramDelegate(List<string> args);
 
 		internal static List<KeyValuePair<ProgramName, ExecuteProgramDelegate>> BuiltInTools = new List<KeyValuePair<ProgramName, ExecuteProgramDelegate>>() {
-			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "Tales.DestinyRemake.TblBin.Extract",      "-"           ),  Tales.DestinyRemake.TblBin.Execute.Extract) },
-			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "Tales.DestinyRemake.MglkExtract.Extract", "-"           ),  Tales.DestinyRemake.MglkExtract.Execute.Extract) },
+			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "unpack",		"-"           ),  unpack.Execute.Extract) },
+			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "unmglk",		"-"           ),  unmglk.Execute.Extract) },
 		};
 	}
 }

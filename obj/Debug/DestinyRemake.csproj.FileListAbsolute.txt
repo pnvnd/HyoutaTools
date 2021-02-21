@@ -1,0 +1,6 @@
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\bin\Debug\DestinyRemake.exe.config
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\bin\Debug\DestinyRemake.exe
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\bin\Debug\DestinyRemake.pdb
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\obj\Debug\DestinyRemake.csproj.CoreCompileInputs.cache
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\obj\Debug\DestinyRemake.exe
+C:\Users\pvnn\Desktop\Tales-of-Destiny-DC\HyoutaTools\obj\Debug\DestinyRemake.pdb
