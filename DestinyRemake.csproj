@@ -82,7 +82,8 @@
     <Compile Include="tlzc\tlzcmain.cs" />
     <Compile Include="tlzc\TLZC.cs" />
     <Compile Include="tlzc\TlzcDecompressor.cs" />
-    <Compile Include="ToDrUtil.cs" />
+    <Compile Include="TodrUtil\Execute.cs" />
+    <Compile Include="TodrUtil\ToDrUtil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

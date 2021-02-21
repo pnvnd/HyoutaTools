@@ -21,6 +21,7 @@ namespace HyoutaTools
 		internal static List<KeyValuePair<ProgramName, ExecuteProgramDelegate>> BuiltInTools = new List<KeyValuePair<ProgramName, ExecuteProgramDelegate>>() {
 			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "unpack",		"-"           ),  unpack.Execute.Extract) },
 			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "unmglk",		"-"           ),  unmglk.Execute.Extract) },
+			{ new KeyValuePair<ProgramName, ExecuteProgramDelegate>( new ProgramName( "mapjis",     "-"           ),  mapjis.Execute.InitPseudoShiftJis) },
 		};
 	}
 }

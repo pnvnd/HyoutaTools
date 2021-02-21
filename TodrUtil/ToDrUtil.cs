@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using HyoutaUtils;
 
-namespace HyoutaTools.Tales.DestinyRemake
+namespace HyoutaTools.mapjis
 {
 	public static class ToDrUtil
 	{
